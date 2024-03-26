@@ -1,0 +1,1442 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What ROPS/FOPS Certification Means?"
+            },
+            {
+                "role": "assistant",
+                "content": "It provides information on ROPS/FOPS certification for Caterpillar equipment."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What is the content of Special Publication PEHJ0059?"
+            },
+            {
+                "role": "assistant",
+                "content": "It covers the product data sheet for Caterpillar DEO (SAE10W-30) oil."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the focus of Special Publication SEHS6929?"
+            },
+            {
+                "role": "assistant",
+                "content": "It provides guidelines for the inspection, maintenance, and repair of ROPS and attachments."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What does Special Publication PEHP7506 cover?"
+            },
+            {
+                "role": "assistant",
+                "content": "It includes product data sheet and installation guidelines for Caterpillar TDTO oil."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the purpose of Special Publication PEHP7508?"
+            },
+            {
+                "role": "assistant",
+                "content": "It provides safety manuals for Caterpillar Gear Oil (GO)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What safety information is covered in the Safety DVD TEVD6193?"
+            },
+            {
+                "role": "assistant",
+                "content": "It includes safety and operating tips for C-Series Skid Steer Loaders and Multi Terrain Loaders."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What information is included in Special Publication PEHP7062?"
+            },
+            {
+                "role": "assistant",
+                "content": "It covers the product data sheet for Caterpillar DEO Synthetic (SAE5W-40) oil."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What does Special Publication PEHP9530 focus on?"
+            },
+            {
+                "role": "assistant",
+                "content": "It provides product data sheet for Caterpillar FDAO (SAE60) oil."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the content of Special Publication PEDP7036?"
+            },
+            {
+                "role": "assistant",
+                "content": " It covers S\u00b7O\u00b7S services for Caterpillar equipment."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What information is included in Special Publication PEHP9570?"
+            },
+            {
+                "role": "assistant",
+                "content": " It covers the product data sheet for Caterpillar FDAOSynthetic (Multigrade) oil."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the focus of Special Publication PEHP7052?"
+            },
+            {
+                "role": "assistant",
+                "content": "It provides information on making the most of S\u00b7O\u00b7S services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What does Special Publication PELJ0179 cover?"
+            },
+            {
+                "role": "assistant",
+                "content": "It includes specifications for Caterpillar Engine Crankcase Fluid-1."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What information is included in Special Publication PEHP7057?"
+            },
+            {
+                "role": "assistant",
+                "content": "It covers S\u00b7O\u00b7S Coolant Analysis for Caterpillar equipment."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the content of Special Publication PEHP8035?"
+            },
+            {
+                "role": "assistant",
+                "content": "It includes the product data sheet for TDTO Transmission Multi-Season oil."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What does Special Publication PEHP7076 focus on?"
+            },
+            {
+                "role": "assistant",
+                "content": "It provides information on understanding S\u00b7O\u00b7S services tests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the focus of Special Publication SEBD0640?"
+            },
+            {
+                "role": "assistant",
+                "content": "It covers information on oil and your engine."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What information is included in Specifications Manual SENR3130?"
+            },
+            {
+                "role": "assistant",
+                "content": "It includes torque operation and maintenance specifications"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What is the purpose of Tools Operation and Maintenance Manual SEBU5898?"
+            },
+            {
+                "role": "assistant",
+                "content": "It provides recommendations for cold weather operation."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What information is included in Parts Manual SEBP5067 279C?"
+            },
+            {
+                "role": "assistant",
+                "content": "It includes parts information for the 279C model."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the focus of Engine Manufacturers Association Parts Manual SERP5069 299C?"
+            },
+            {
+                "role": "assistant",
+                "content": "It includes engine fluids data book information."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication SEBD1587 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about ROPS/FOPS certification."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHJ0059 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Product Data Sheet Certification Means for Caterpillar DEO (SAE10W-30)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication SEHS6929 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Inspection, Maintenance, and Repair of ROPS and Attachment Installation Guidelines."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP7506 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Product Data Sheet for Caterpillar TDTO (SAE10W, SAE30, SAE50).\n"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP7508 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Product Data Sheet Safety Manuals for Caterpillar Gear Oil (GO) (SAE80W-90 and SAE 85W-140)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Safety DVD TEVD6193 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about C-Series Skid Steer Loader and Multi Terrain Loader Safety & Operating Tips."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP7062 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Product Data Sheet for Caterpillar DEO Synthetic (SAE5W-40)"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP9530 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Product Data Sheet for Caterpillar FDAO (SAE60)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEDP7036 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about S\u00b7O\u00b7S Services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP9570 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Product Data Sheet for Caterpillar FDAOSynthetic (Multigrade)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What is the publication PEHP7052 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Making the Most of S\u00b7O\u00b7S Services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What is the publication PELJ0179 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Caterpillar Engine Crankcase Fluid-1 Specifications (CatECF-1).\n"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP7057 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about S\u00b7O\u00b7S Coolant Analysis."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP8035 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Product Data Sheet for TDTO Transmission Multi-Season (TMS)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication PEHP7076 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Understanding S\u00b7O\u00b7S Services Tests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the publication SEBD0640 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Oil and Your Engine."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What is the Specifications Manual SENR3130 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Torque Operation and Maintenance Specifications Manuals.\n"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Operation and Maintenance Manual SEBU5898 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Cold Weather Recommendations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Special Publication NENG2500 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Caterpillar Dealer Service Tool Catalog."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Operation and Maintenance Manual SEBU8257 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about The European Union Physical Agents (Vibration) Directive 2002/44/EC.\n"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is SAE J183 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Classification."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Operation and Maintenance Manual SMBU6981 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Emissions Control Warranty Information."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is SAE J313 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Diesel Fuels."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Parts Manual SEBP5067 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about 279C."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Parts Manual SEBP5068 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about 289C."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Parts Manual SEBP5069 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about 299C."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Engine Manufacturers Association publication about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Engine Fluids Data Book."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SAE J754 about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Nomenclature."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SAE J313 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Diesel Fuels."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Parts Manual SERP5067279C about?\n"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about 279C."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Parts Manual SERP5068289C about?"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about 289C."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Parts Manual SERP5069299C about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about 299C."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SMCS Code 6700 about?"
+            },
+            {
+                "role": "assistant",
+                "content": " It is about Caterpillar Approved Work Tools."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " What is the SMCS Code 1000 about?\n"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Decommissioning and Disposal"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SMCS Code 1000 about?\n"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Decommissioning and Disposal."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SMCS Code 7000 about?\n"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Decommissioning and Disposal."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SMCS Code 1000 about?\n"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Decommissioning and Disposal."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SMCS Code 6700 about?\n"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Caterpillar Approved Work Tools."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SMCS Code 7000 about?\n"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Decommissioning and Disposal."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the SMCS Code 6700 about?\n\n"
+            },
+            {
+                "role": "assistant",
+                "content": "It is about Caterpillar Approved Work Tools."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What were the key financial highlights for Mobily in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Mobily achieved the highest annual revenues in the last 9 years, with a growth of 5.6%.\n- The net profit increased by 54.6% to SAR 1.7 billion.\n- EBITDA margin improved to 39.3%, an increase of 1.7%."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " How did Mobily perform in terms of operational cash flow in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "Operational cash flow increased by 16.6% to reach SAR 4.1 billion."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What was Mobily's approach to managing its debt in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Mobily successfully reduced its debt portfolio, paying off more than SAR 1.2 billion of its debt balance.\n- The net debt to EBITDA ratio decreased to 1.66x at the end of 2022."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": " How did Mobily focus on customer experience and satisfaction in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Mobily improved its customer satisfaction by 50% and reduced defaults in billing.\n- The company invested in digitalization and product innovation to enhance customer experience."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What were the key achievements of Mobily's GAIN strategy in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "- The strategy led to record-breaking revenues, highest net profit in 9 years, and improved EBITDA margin.\n- Mobily successfully positioned itself as a technology company of the future."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How did Mobily contribute to the Saudi ICT sector and Vision 2030 in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Mobily supported the growth of the ICT sector, increased female participation, and enhanced Saudization.\n- The company aligned with the Saudi ICT Strategy 2023 to drive digital transformation in the Kingdom.\n"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What were the key revenue streams for Mobily in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "Key revenue streams included interconnection charges, device sales, usage fees, and revenues from digital products and services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How did Mobily focus on sustainability and ESG initiatives in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily introduced a 3-year ESG strategy, obtained ISO certifications, and promoted sustainability among businesses and individuals."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How did Mobily strengthen its financial position in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily improved its EBITDA margin, increased operational cash flow, and reduced its debt portfolio to enhance financial stability."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What are Mobily's plans for future growth and strategic development?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily aims to continue its growth journey, focus on market share expansion, and position itself as a leader in new trends in the telecom, media, and technology industries."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the total amount of borrowings acquired by the Company as of 31 December 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "The total amount of borrowings acquired by the Company as of 31 December 2022 is 13,040,620 million Saudi Riyals."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the purpose of the Long-term refinancing facility Murabaha Facility acquired in Q4, 2019?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Long-term refinancing facility Murabaha Facility acquired in Q4, 2019 was for general corporate purposes."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How much was the Long-term financing agreement with the Export Credit Agency of Finland for acquiring network equipment in Q1, 2014?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Long-term financing agreement with the Export Credit Agency of Finland for acquiring network equipment in Q1, 2014 was USD 720 million."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the total amount of borrowings utilized by the Company as of 31 December 2021?"
+            },
+            {
+                "role": "assistant",
+                "content": "The total amount of borrowings utilized by the Company as of 31 December 2021 is 14,178,402 million Saudi Riyals."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the Net debt to shareholders' equity ratio at the end of the year 2022?\n"
+            },
+            {
+                "role": "assistant",
+                "content": "The Net debt to shareholders' equity ratio at the end of the year 2022 is 0.62.\n"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How much revenue did the Consumer segment generate in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Consumer segment generated revenue of 10,877,594 million Saudi Riyals in 2022."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the total cost of revenue for the year 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "The total cost of revenue for the year 2022 is 6,305,559 million Saudi Riyals."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What was the profit for the year 2021?"
+            },
+            {
+                "role": "assistant",
+                "content": "The profit for the year 2021 was 1,071,541 million Saudi Riyals."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How much was the dividend per share recommended by the Board of Directors for the fiscal year 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "The dividend per share recommended by the Board of Directors for the fiscal year 2022 was SR 1.15."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is the total amount of capital commitments as of 31 December 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "The total amount of capital commitments as of 31 December 2022 is SR 536 million."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is Mobily's GAIN strategy focused on?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily's GAIN strategy is focused on achieving profitable and sustainable growth."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What are the 4 strategic pillars of Mobily's GAIN strategy?"
+            },
+            {
+                "role": "assistant",
+                "content": "The 4 strategic pillars of Mobily's GAIN strategy are: Product and Services, Customer Relationships, Infrastructure, and Channels."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How did Mobily perform in terms of revenue in 2022 compared to 2021?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily achieved a revenue growth of 5.6% in 2022 compared to 2021."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What was Mobily's net profit in 2022 and how does it compare to 2021?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily's net profit in 2022 was SAR 1.7 billion, representing a 54.6% increase compared to 2021."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What is Mobily's EBITDA margin in 2022 and how does it compare to 2021?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily's EBITDA margin in 2022 was 39.3%, which is a 1.7% increase compared to 2021."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How did Mobily manage its debt in 2022 compared to 2021?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily reduced its net debt by 15.9% in 2022 compared to 2021."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What were the key revenue streams for Mobily in 2022?"
+            },
+            {
+                "role": "assistant",
+                "content": "The key revenue streams for Mobily in 2022 included interconnection charges, income from ventures, device and accessory sales, and revenues from digital products and services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What are the main customer segments that Mobily serves?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily serves consumers, mobile operators, businesses, small-to-medium enterprises (SMEs), and households across Saudi Arabia."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "How does Mobily create value for its stakeholders?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily creates value for its stakeholders by providing innovative offerings, effortless and digitized experiences, and connectivity solutions tailored to the needs of its customers."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are the user's assistant. Please reply user`s questions"
+            },
+            {
+                "role": "user",
+                "content": "What are the key technologies that Mobily offers to its customers?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mobily offers wireless (5G, 4G), fixed (FTTH, FTTB), IoT solutions, cloud services, international connectivity, and digital services to its customers."
+            }
+        ]
+    }
+]
